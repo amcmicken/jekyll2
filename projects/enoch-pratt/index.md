@@ -9,4 +9,5 @@ project: project-1
 
 lorem ipsum
 
-![My Cat](http://placekitten.com/300/300)
+![my enoch cat] (http://placekitten.com/300/300)
+
