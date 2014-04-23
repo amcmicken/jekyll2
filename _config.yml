@@ -2,4 +2,5 @@
 #amcmicken.github.io/jekyll2
 #amcmicken.github.io
 baseurl: /jekyll2
+markdown: kramdown
 
