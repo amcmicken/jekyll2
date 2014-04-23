@@ -5,7 +5,7 @@ layout: projects
 project: project-1
 ---
 
-# Hello Enoch Pratt
+# Enoch Pratt Library 
 
 lorem ipsum
 
