@@ -1,6 +1,7 @@
 ---
 title: Enoch Pratt Library
 layout: projects
+
 project: project-1
 ---
 
