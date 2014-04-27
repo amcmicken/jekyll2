@@ -6,7 +6,7 @@ categories:
 - enoch-pratt
 ---
 
-[Back](http://amcmicken.github.io/index.html)
+[Back](http://amcmicken.github.io/jekyll2/index.html)
 
 # Enoch Pratt Library Process Week 1
 
