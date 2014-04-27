@@ -1,12 +1,12 @@
 ---
-title: "Starting Project 1"
+title: "Enoch Pratt Library"
 date: 2014-04-16 18:27:30
 categories:
 - projects
 - enoch-pratt
 ---
 
-# Dear World
+# Enoch Pratt Library
 
 Hello [Internet](http://google.com)
 
