@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "pickasong API"
 date: 2014-04-16 18:27:30
 categories:
