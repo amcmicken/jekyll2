@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Enoch Pratt Library"
 date: 2014-04-16 18:27:30
 categories:
