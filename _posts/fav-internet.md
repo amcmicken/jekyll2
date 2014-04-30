@@ -67,32 +67,32 @@ Samuel Rivers is a graphic designer whose website references back to the 90's. H
 
 # Favorite Internet Thing Week 11
 
-[Final Website](http://amcmicken.github.io/project-01/index.html)
-This week I have made a lot of headway in terms of the coding as well as made tweaks to my design as well. I found the Google Nexus Nav Bar that works great for my site. It was very complicated to figure out how ot incorporate in into my already existing page. I am actually still working on getting the nav bar to fit perfectly into each page. I also made some great headway with my hovering of a book image. I have almost worked all of the kinks out of that as well. I do still have a few pages that I need to design so while I am behind schedule I am still hopeful that I can finish in time for the March 4th deadline.
+[Ondo](http://ondo.tv/1st/)
+Ondo is a visually pleasureful website that makes great use of scrolling. What I love most about the scrolling is that it seems to be speed/touch sensitive. So basically the faster you scroll the faster it scrolls. It seems like they are using a lot of javascript. I also enjoyed how the scrolling was connected to the globe in the center of the page as well. 
 ![My helpful screenshot]({{ site.url }}/assets/screenshot.jpg)
 
 # Favorite Internet Thing Week 12
 
-[Final Website](http://amcmicken.github.io/project-01/index.html)
-This week I have made a lot of headway in terms of the coding as well as made tweaks to my design as well. I found the Google Nexus Nav Bar that works great for my site. It was very complicated to figure out how ot incorporate in into my already existing page. I am actually still working on getting the nav bar to fit perfectly into each page. I also made some great headway with my hovering of a book image. I have almost worked all of the kinks out of that as well. I do still have a few pages that I need to design so while I am behind schedule I am still hopeful that I can finish in time for the March 4th deadline.
+[Localhost.us](http://localhost.us)
+As the website says, localhost.us is a conversation on the intersection of culture and technology. I think the UX/UI is perfect for their concept. It really explores the intersection between these 2 things. I element I like specifically is the cropping of type/image as you scroll down. I think it is a really great visual and experience that the user gets to experience. I also really enjoy the way the color slowly changes color through a fluid gradient. Overall the website is very smooth and flows very nicely and leaves the viewer intrigued.
 ![My helpful screenshot]({{ site.url }}/assets/screenshot.jpg)
 
 # Favorite Internet Thing Week 13
 
-[Final Website](http://amcmicken.github.io/project-01/index.html)
-This week I have made a lot of headway in terms of the coding as well as made tweaks to my design as well. I found the Google Nexus Nav Bar that works great for my site. It was very complicated to figure out how ot incorporate in into my already existing page. I am actually still working on getting the nav bar to fit perfectly into each page. I also made some great headway with my hovering of a book image. I have almost worked all of the kinks out of that as well. I do still have a few pages that I need to design so while I am behind schedule I am still hopeful that I can finish in time for the March 4th deadline.
+[primary suite](http://dk8.co/primary/)
+Once again I am interested in how this website forces you to interact it without you doing much more than moving your mouse. It instantly allows the user to become engaged with the site. I think the physicality of the paint is nice to see in a digital form as well. I do however wish there was a more intuitive way to move from one project to the other besides hitting the back arrow. I myself would love to learn how to make things move from just moving your mouse. 
 ![My helpful screenshot]({{ site.url }}/assets/screenshot.jpg)
 
 # Favorite Internet Thing Week 14
 
-[Final Website](http://amcmicken.github.io/project-01/index.html)
-This week I have made a lot of headway in terms of the coding as well as made tweaks to my design as well. I found the Google Nexus Nav Bar that works great for my site. It was very complicated to figure out how ot incorporate in into my already existing page. I am actually still working on getting the nav bar to fit perfectly into each page. I also made some great headway with my hovering of a book image. I have almost worked all of the kinks out of that as well. I do still have a few pages that I need to design so while I am behind schedule I am still hopeful that I can finish in time for the March 4th deadline.
+[CBDS](http://www.carte-blanche-design-studio.com)
+CBDS is a graphic design studio based in Hamburg. Because they focus on 'creating visual impact', their website expresses this as well. They are exploring the boundaries of the page and leave bits of other links and work on the edges of the screen. The user has the option of scrolling aimlessly around to the different sections or quickly navigate to the different sections by clicking on the links. I also enjoy how the images are layered on top of each other and when you hover over an image below it pops above to the surface of the screen. I assume this is just with a simple hover on-click.
 ![My helpful screenshot]({{ site.url }}/assets/screenshot.jpg)
 
 # Favorite Internet Thing Week 15
 
-[Final Website](http://amcmicken.github.io/project-01/index.html)
-This week I have made a lot of headway in terms of the coding as well as made tweaks to my design as well. I found the Google Nexus Nav Bar that works great for my site. It was very complicated to figure out how ot incorporate in into my already existing page. I am actually still working on getting the nav bar to fit perfectly into each page. I also made some great headway with my hovering of a book image. I have almost worked all of the kinks out of that as well. I do still have a few pages that I need to design so while I am behind schedule I am still hopeful that I can finish in time for the March 4th deadline.
+[Patatap](http://www.patatap.com)
+Patatap is a great simple website that is a collection on animations that are triggered by different keyboard strokes. It is so addicting while having such a simple interface. The back end must not be too complicated either because every sound and animation is pre-programmed to a certain letter on the keyboard. While being simple their is enough variation to keep the users interest. It is such a clever and fun website!
 ![My helpful screenshot]({{ site.url }}/assets/screenshot.jpg)
 
 [Final Website](http://amcmicken.github.io/project-01/index.html)
