@@ -16,7 +16,7 @@ There are a number of things that I like and want to learn how to recreate from 
 
 [Anitype](http://www.anitype.com)
 Anitype is a cool project/website that I found on itsnicethat.com that asks the question "what if letters could move?" The creator, Jono Brandel, is a designer and developer at Google. Anitype allows the user to animate every letter in the alphabet as well as special characters. I think this project is great because it opens up the world to how one can use animated type in a web based platform. The site takes you to a page where you actually get to manipulate the raw javascript itself and preview the animation. I played around a bit with it but I don't know enough javascript to really know what I am doing. I would like to learn what each of the functions means in the code and be able to create my own unique animated letter form.
-![My helpful screenshot]({{ site.url }}/assets/screenshot.jpg)
+![Image]({{ site.baseurl }}/assets/imgs/1.png)
 
 # Favorite Internet Thing Week 3
 

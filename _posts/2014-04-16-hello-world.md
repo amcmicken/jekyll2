@@ -17,6 +17,7 @@ I am currently in week 1 of the Pratt Library Redesign. So far I have been delvi
 # Enoch Pratt Library Process Week 2
 
 Last week I finished the last of the user research so I begin designing. I designed Page Description Diagrams that distinguished the difference between high, medium and low level priority items for each of the 6 pages I am designing. Based on my user research, the highest priority item was constant accessibility of the Search Bar. Another high priority item is the Location & Hours Page. After selecting items' priorities, I designed rough wireframes for where information would be located on each page. I then made a style tile that depicted the aesthetic direction I want to go towards which will be clean, simple and minimal.
+![Image]({{ site.baseurl }}/assets/imgs/1.png)
 
 # Enoch Pratt Library Process Week 3
 
