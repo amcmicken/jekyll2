@@ -1,16 +1,15 @@
-- - -
+---
 layout: default
-title: Jekyll Test Site
-- - -
-
+title: Advanced Web Design
+---
 <section class="list postlist">
-	<h1>Class Blog Posts</h1>
+	<h1>Advanced Web Design Blog</h1>
 	
 	{% for post in site.posts %}
 	<article>
 		<time>{{ post.date | date_to_string }}</time>
 		<h2>
-			<a href="{{ post.url }}" title="{{ post.title }}">
+			<a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">
 				{{ post.title }}
 			</a>
 		</h2>
@@ -18,3 +17,5 @@ title: Jekyll Test Site
 	
 	{% endfor %}
 </section>
+
+{% include nav-projects.html %}

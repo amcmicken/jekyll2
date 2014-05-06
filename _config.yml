@@ -1,12 +1,6 @@
-#this is a comment
-name: mywebsite
-Description: My Jekyll Website
+#this is for github project pages
+#amcmicken.github.io/jekyll2
+#amcmicken.github.io
+baseurl: /jekyll2
+markdown: kramdown
 
-author:
-	name: Amanda McMicken
-	email: amcmicken@mica.edu
-	github: amcmicken
-	
-permalink: pretty
-
-future: true
