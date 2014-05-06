@@ -5,6 +5,7 @@ date: 2014-04-16 18:27:30
 categories:
 - projects
 ---
+[Back](http://amcmicken.github.io/jekyll2/index.html)
 
 # Favorite Internet Thing Week 1
 
@@ -98,5 +99,3 @@ Patatap is a great simple website that is a collection on animations that are tr
 ![Image]({{ site.baseurl }}/assets/imgs/1.png)
 
 [Final Website](http://amcmicken.github.io/project-01/index.html)
-
-[Back](http://amcmicken.github.io/jekyll2/index.html)
