@@ -11,38 +11,38 @@ categories:
 
 [Lundgren+Lindqvist](http://www.lundgrenlindqvist.se)
 There are a number of things that I like and want to learn how to recreate from this website. First off, I noticed that the design is responsive when you adjust the width of the window (Is this as simple as switching the width to percentages?). For example the row of thumbnails adjusts from 3 to 2 when you shorten the width of the window. I am also interested in the delay of opacity/transparency when you scroll up and down from the thumbnails. What I am most intrigued by is how when you hover over either "Design" or "Development" the entire screen either whites or blacks out. I like how simple and striking it is.
-![Image]({{ site.baseurl }}/assets/imgs/1.png)
+![Image]({{ site.baseurl }}/assets/imgs/1.1.jpg)
 
 # Favorite Internet Thing Week 2
 
 [Anitype](http://www.anitype.com)
 Anitype is a cool project/website that I found on itsnicethat.com that asks the question "what if letters could move?" The creator, Jono Brandel, is a designer and developer at Google. Anitype allows the user to animate every letter in the alphabet as well as special characters. I think this project is great because it opens up the world to how one can use animated type in a web based platform. The site takes you to a page where you actually get to manipulate the raw javascript itself and preview the animation. I played around a bit with it but I don't know enough javascript to really know what I am doing. I would like to learn what each of the functions means in the code and be able to create my own unique animated letter form.
-![Image]({{ site.baseurl }}/assets/imgs/1.png)
+![Image]({{ site.baseurl }}/assets/imgs/2.png)
 
 # Favorite Internet Thing Week 3
 
 [Where You Are](http://where-you-are.com)
 Where You Are is an interesting site that is promoting a book including 16 artists, writers, thinkers, and their personal maps. The site is set up horizontally and breaks the edges of the browser. You are encouraged to click and drag around to explore everything. What I found most intriguing is the fact that you can see where someone else is reading because a yellow bordered box pops up. I think that is such an interesting and fitting idea for this particular work. <br>
 *See example on Hover States
-![Image]({{ site.baseurl }}/assets/imgs/1.png)
+![Image]({{ site.baseurl }}/assets/imgs/3.png)
 
 # Favorite Internet Thing Week 4
 
 [Il-Ho Jung](http://www.il-ho.com)
 Il-Ho Jung has a lot of interesting transitions and animations that he uses and I think are very effective. When moving from page to page he has a nice shutter (or close blind) effect. He uses the mark of the diamond repeatedly on his website. For example the navigation at the bottom of the screen as well as in the middle of the screen when moving from project to project. Also, when you hover over that middle diamond a large diamond appears and inside of it is a closeup preview of the project to come. I think because his images are full bleed he is able to play around with and have more fun with details like transitions and navigation while still allowing the site to not look cluttered or overdone.!
-![Image]({{ site.baseurl }}/assets/imgs/1.png)
+![Image]({{ site.baseurl }}/assets/imgs/4.png)
 
 # Favorite Internet Thing Week 5
 
 [One Iota](http://oneiota.com)
 One Iota is a coffee brewing company. I chose this website because of the intro page. I loved the wave it was interactive where the viewer had to put the letters in the right spot. I would love to learn how that little piece was coded. I am sure it is much more complicated than how it looks on the surface.
-![Image]({{ site.baseurl }}/assets/imgs/1.png)
+![Image]({{ site.baseurl }}/assets/imgs/5.png)
 
 # Favorite Internet Thing Week 6
 
 [Nous Vous](http://nousvous.eu)
 Nous Vous just released their delightfully new website that allows you to navigate it through your arrow keys. Immediately once loading the website, a subtle notification pops up in the center of the screen and lets you know that you can use your keys. As you start to push different arrows you get to navigate the site and a nice, refreshing manner that is similar to instagram where you could easily get lost in the work. I not also like it on a UX/UI level but also just on a purely visual way as well. While the current project is in the center of the screen, you see just a sliver of the other projects at the edges of the website.  
-![Image]({{ site.baseurl }}/assets/imgs/1.png)
+![Image]({{ site.baseurl }}/assets/imgs/6.png)
 
 # Favorite Internet Thing Week 7
 
