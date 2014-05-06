@@ -10,7 +10,7 @@ categories:
 
 [Lundgren+Lindqvist](http://www.lundgrenlindqvist.se)
 There are a number of things that I like and want to learn how to recreate from this website. First off, I noticed that the design is responsive when you adjust the width of the window (Is this as simple as switching the width to percentages?). For example the row of thumbnails adjusts from 3 to 2 when you shorten the width of the window. I am also interested in the delay of opacity/transparency when you scroll up and down from the thumbnails. What I am most intrigued by is how when you hover over either "Design" or "Development" the entire screen either whites or blacks out. I like how simple and striking it is.
-![My helpful screenshot]({{ site.url }}/assets/screenshot.jpg)
+![Image]({{ site.baseurl }}/assets/imgs/1.png)
 
 # Favorite Internet Thing Week 2
 
