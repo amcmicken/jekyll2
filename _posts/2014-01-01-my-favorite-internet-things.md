@@ -1,10 +1,12 @@
 ---
-layout: default
-title: "Favorite Internet Things"
-date: 2014-04-16 18:27:30
+title: "My Favorite Internet Things"
+date: 2014-04-23 13:49:17
 categories:
 - projects
+- enoch-pratt
 ---
+
+# Favorite Internet Things
 
 # Favorite Internet Thing Week 1
 
