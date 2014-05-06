@@ -48,19 +48,19 @@ Nous Vous just released their delightfully new website that allows you to naviga
 
 [Geoffrey Lillemon](http://www.geoffreylillemon.com)
 Geoffrey Lillemon is known as a crazy, creative, and highly creepy designer so it is no surprise that is website is just that. I would say that is is hard to navigate but I am saying that as a positive trait. It is synonymous to the style of his design/artwork. You navigate through his videos are buy hitting the spacebar for a certain period of time. The longer you hold the space bar down, the faster the videos are shuffled through.
-![Image]({{ site.baseurl }}/assets/imgs/1.png)
+![Image]({{ site.baseurl }}/assets/imgs/7.jpg)
 
 # Favorite Internet Thing Week 8
 
 [History](http://1979.la/history)
 History is a cool way to have a fully text based website be intriguing and interesting. Often times text based website can be boring and loose a users attention, but History highlights in different colors that encourage you to hover over those parts and see an action/image. Instead of being creative with the visual aesthetic of the text itself, History decided to add media elements in the background. I found it really lovely. It really opened my eyes to the possibilities of text based web work.
-![Image]({{ site.baseurl }}/assets/imgs/1.png)
+![Image]({{ site.baseurl }}/assets/imgs/8.jpg)
 
 # Favorite Internet Thing Week 9
 
 [Samuel Rivers-Moore - Archive Website](http://www.samuelriversmoore.net)
 Samuel Rivers is a graphic designer whose website references back to the 90's. He uses default fonts, icons and colors for the index page that brings you back to the early internet days. While there are many designers these days that reference this type of default imagery, I found this one particularly successful. I think it is the level of detail that makes this one different from the others. I also visually enjoy the additional elements of youtube and contemporary transitions.
-![Image]({{ site.baseurl }}/assets/imgs/1.png)
+![Image]({{ site.baseurl }}/assets/imgs/9.png)
 
 # Favorite Internet Thing Week 10
 
@@ -72,30 +72,30 @@ Samuel Rivers is a graphic designer whose website references back to the 90's. H
 
 [Ondo](http://ondo.tv/1st/)
 Ondo is a visually pleasureful website that makes great use of scrolling. What I love most about the scrolling is that it seems to be speed/touch sensitive. So basically the faster you scroll the faster it scrolls. It seems like they are using a lot of javascript. I also enjoyed how the scrolling was connected to the globe in the center of the page as well. 
-![Image]({{ site.baseurl }}/assets/imgs/1.png)
+![Image]({{ site.baseurl }}/assets/imgs/11.jpg)
 
 # Favorite Internet Thing Week 12
 
 [Localhost.us](http://localhost.us)
 As the website says, localhost.us is a conversation on the intersection of culture and technology. I think the UX/UI is perfect for their concept. It really explores the intersection between these 2 things. I element I like specifically is the cropping of type/image as you scroll down. I think it is a really great visual and experience that the user gets to experience. I also really enjoy the way the color slowly changes color through a fluid gradient. Overall the website is very smooth and flows very nicely and leaves the viewer intrigued.
-![Image]({{ site.baseurl }}/assets/imgs/1.png)
+![Image]({{ site.baseurl }}/assets/imgs/12.jpg)
 
 # Favorite Internet Thing Week 13
 
 [primary suite](http://dk8.co/primary/)
 Once again I am interested in how this website forces you to interact it without you doing much more than moving your mouse. It instantly allows the user to become engaged with the site. I think the physicality of the paint is nice to see in a digital form as well. I do however wish there was a more intuitive way to move from one project to the other besides hitting the back arrow. I myself would love to learn how to make things move from just moving your mouse. 
-![Image]({{ site.baseurl }}/assets/imgs/1.png)
+![Image]({{ site.baseurl }}/assets/imgs/13.jpg)
 
 # Favorite Internet Thing Week 14
 
 [CBDS](http://www.carte-blanche-design-studio.com)
 CBDS is a graphic design studio based in Hamburg. Because they focus on 'creating visual impact', their website expresses this as well. They are exploring the boundaries of the page and leave bits of other links and work on the edges of the screen. The user has the option of scrolling aimlessly around to the different sections or quickly navigate to the different sections by clicking on the links. I also enjoy how the images are layered on top of each other and when you hover over an image below it pops above to the surface of the screen. I assume this is just with a simple hover on-click.
-![Image]({{ site.baseurl }}/assets/imgs/1.png)
+![Image]({{ site.baseurl }}/assets/imgs/14.jpg)
 
 # Favorite Internet Thing Week 15
 
 [Patatap](http://www.patatap.com)
 Patatap is a great simple website that is a collection on animations that are triggered by different keyboard strokes. It is so addicting while having such a simple interface. The back end must not be too complicated either because every sound and animation is pre-programmed to a certain letter on the keyboard. While being simple their is enough variation to keep the users interest. It is such a clever and fun website!
-![Image]({{ site.baseurl }}/assets/imgs/1.png)
+![Image]({{ site.baseurl }}/assets/imgs/15.jpg)
 
 [Final Website](http://amcmicken.github.io/project-01/index.html)
