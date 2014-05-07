@@ -64,9 +64,10 @@ Samuel Rivers is a graphic designer whose website references back to the 90's. H
 
 # Favorite Internet Thing Week 10
 
-[Final Website](http://amcmicken.github.io/project-01/index.html)
-
-![Image]({{ site.baseurl }}/assets/imgs/1.png)
+[soniarentsch](http://www.soniarentsch.com)<br>
+Soniarentsch is a portfolio website for the still life artist and art director Sonia. Her work falls on the somewhat peculiar side so it makes sense that her website is, just a bit peculiar, as well. Her typography choices for navigation is unusual but works perfectly for her still life pieces. On the backend, the website seems extremely simple, nothing to fancy but she puts a funky twist on the visual design. My favorite funky visual piece is the eyeballs when you hover over a project. Your arrow becomes 2 googley eyes.
+<br>
+![Image]({{ site.baseurl }}/assets/imgs/10.jpg)
 
 # Favorite Internet Thing Week 11
 
@@ -97,5 +98,3 @@ CBDS is a graphic design studio based in Hamburg. Because they focus on 'creatin
 [Patatap](http://www.patatap.com)<br>
 Patatap is a great simple website that is a collection on animations that are triggered by different keyboard strokes. It is so addicting while having such a simple interface. The back end must not be too complicated either because every sound and animation is pre-programmed to a certain letter on the keyboard. While being simple their is enough variation to keep the users interest. It is such a clever and fun website!<br>
 ![Image]({{ site.baseurl }}/assets/imgs/15.jpg)
-
-[Final Website](http://amcmicken.github.io/project-01/index.html)
