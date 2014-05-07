@@ -4,6 +4,7 @@ body {
 	line-height: 20px;
 	width: 400px;
 	margin: 50px;
+	background-color: #d3d3d3;
 }
 a { 
 	outline:none; 
