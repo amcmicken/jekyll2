@@ -16,12 +16,13 @@ I am currently in week 1 of the Pratt Library Redesign. So far I have been delvi
 
 # Enoch Pratt Library Process Week 2
 
-Last week I finished the last of the user research so I begin designing. I designed Page Description Diagrams that distinguished the difference between high, medium and low level priority items for each of the 6 pages I am designing. Based on my user research, the highest priority item was constant accessibility of the Search Bar. Another high priority item is the Location & Hours Page. After selecting items' priorities, I designed rough wireframes for where information would be located on each page. I then made a style tile that depicted the aesthetic direction I want to go towards which will be clean, simple and minimal.
+Last week I finished the last of the user research so I begin designing. I designed Page Description Diagrams that distinguished the difference between high, medium and low level priority items for each of the 6 pages I am designing. Based on my user research, the highest priority item was constant accessibility of the Search Bar. Another high priority item is the Location & Hours Page. After selecting items' priorities, I designed rough wireframes for where information would be located on each page. I then made a style tile that depicted the aesthetic direction I want to go towards which will be clean, simple and minimal.<br>
 ![Image]({{ site.baseurl }}/assets/imgs/enoch/diagram.jpg)
 
 # Enoch Pratt Library Process Week 3
 
-This week I began creating browser-based wireframes for my 6 pages of the Pratt Library. I began to create with Bootstrap components from what we learned in class, however I switched over to UXPin due to the complications that arose with Bootstrap. For my wireframes my goal was to just place all of the elements on to each of the pages without designing them. I just wanted to see the functionality. The sidenav is an important element of my pages because it is the core of the navigation through my site. An interesting side note that helps with functionality is that you will be able to compress and expand the nav on the left side.
+This week I began creating browser-based wireframes for my 6 pages of the Pratt Library. I began to create with Bootstrap components from what we learned in class, however I switched over to UXPin due to the complications that arose with Bootstrap. For my wireframes my goal was to just place all of the elements on to each of the pages without designing them. I just wanted to see the functionality. The sidenav is an important element of my pages because it is the core of the navigation through my site. An interesting side note that helps with functionality is that you will be able to compress and expand the nav on the left side.<br>
+![Image]({{ site.baseurl }}/assets/imgs/enoch/wireframe.jpg)
 
 # Enoch Pratt Library Process Week 4
 
