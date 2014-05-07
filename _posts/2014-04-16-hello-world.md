@@ -26,10 +26,12 @@ This week I began creating browser-based wireframes for my 6 pages of the Pratt 
 
 # Enoch Pratt Library Process Week 4
 
-Because I was somewhat behind from last weeks assignment, I just now began to code my website this week so I was caught trying to not only add the core, basic elements to my website but also include stylistic details. It was a challenge and I still am left with a few kinks and questions. I am still left questioning how to handle my nav bar and how to have it collapse and expand. I did not think while designing my flats how complicated and challenging the coding would be for it. But nonetheless I have made progress, while it may be slow progress and while continue to code this page for the next week.
+Because I was somewhat behind from last weeks assignment, I just now began to code my website this week so I was caught trying to not only add the core, basic elements to my website but also include stylistic details. It was a challenge and I still am left with a few kinks and questions. I am still left questioning how to handle my nav bar and how to have it collapse and expand. I did not think while designing my flats how complicated and challenging the coding would be for it. But nonetheless I have made progress, while it may be slow progress and while continue to code this page for the next week.<br>
+![Image]({{ site.baseurl }}/assets/imgs/enoch/code1.jpg)
 
 # Enoch Pratt Library Process Week 5
 
-This week I have made a lot of headway in terms of the coding as well as made tweaks to my design as well. I found the Google Nexus Nav Bar that works great for my site. It was very complicated to figure out how ot incorporate in into my already existing page. I am actually still working on getting the nav bar to fit perfectly into each page. I also made some great headway with my hovering of a book image. I have almost worked all of the kinks out of that as well. I do still have a few pages that I need to design so while I am behind schedule I am still hopeful that I can finish in time for the March 4th deadline.
+This week I have made a lot of headway in terms of the coding as well as made tweaks to my design as well. I found the Google Nexus Nav Bar that works great for my site. It was very complicated to figure out how ot incorporate in into my already existing page. I am actually still working on getting the nav bar to fit perfectly into each page. I also made some great headway with my hovering of a book image. I have almost worked all of the kinks out of that as well. I do still have a few pages that I need to design so while I am behind schedule I am still hopeful that I can finish in time for the March 4th deadline.<br>
+![Image]({{ site.baseurl }}/assets/imgs/enoch/nav.jpg)
 
 [Final Website](http://amcmicken.github.io/project-01/index.html)
