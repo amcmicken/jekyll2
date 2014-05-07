@@ -60,7 +60,7 @@ History is a cool way to have a fully text based website be intriguing and inter
 
 [Samuel Rivers-Moore - Archive Website](http://www.samuelriversmoore.net)<br>
 Samuel Rivers is a graphic designer whose website references back to the 90's. He uses default fonts, icons and colors for the index page that brings you back to the early internet days. While there are many designers these days that reference this type of default imagery, I found this one particularly successful. I think it is the level of detail that makes this one different from the others. I also visually enjoy the additional elements of youtube and contemporary transitions.
-![Image]({{ site.baseurl }}/assets/imgs/9.png)
+![Image]({{ site.baseurl }}/assets/imgs/9.jpg)
 
 # Favorite Internet Thing Week 10
 
